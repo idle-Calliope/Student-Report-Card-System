@@ -3,6 +3,8 @@ University End Year Project - A Student Report Card System
 
 This project serves to exercise basic coding principles using C++
 
+**NB: Process of creating this application including the tools used are found in the report word document**
+
 Topics Learned:
 ---
 - Input/Output
